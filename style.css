@@ -123,5 +123,9 @@ p a{
 }
 
 @media screen and (max-width: 480px ){
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+    body{
+        font-family: 'Roboto', sans-serif;
+    }
     
 }
